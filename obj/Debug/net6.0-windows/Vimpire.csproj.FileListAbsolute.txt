@@ -1,0 +1,16 @@
+C:\Users\3\source\repos\Vimpire\bin\Debug\net6.0-windows\Vimpire.exe
+C:\Users\3\source\repos\Vimpire\bin\Debug\net6.0-windows\Vimpire.deps.json
+C:\Users\3\source\repos\Vimpire\bin\Debug\net6.0-windows\Vimpire.runtimeconfig.json
+C:\Users\3\source\repos\Vimpire\bin\Debug\net6.0-windows\Vimpire.dll
+C:\Users\3\source\repos\Vimpire\bin\Debug\net6.0-windows\Vimpire.pdb
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\Vimpire.Form1.resources
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\Vimpire.csproj.GenerateResource.cache
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\Vimpire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\Vimpire.AssemblyInfoInputs.cache
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\Vimpire.AssemblyInfo.cs
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\Vimpire.csproj.CoreCompileInputs.cache
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\Vimpire.dll
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\refint\Vimpire.dll
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\Vimpire.pdb
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\Vimpire.genruntimeconfig.cache
+C:\Users\3\source\repos\Vimpire\obj\Debug\net6.0-windows\ref\Vimpire.dll
